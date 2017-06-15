@@ -22,14 +22,14 @@ function HomeController(ocAppName, FeaturedProducts) {
 			},
 			{
 				URL: 'assets/images/carousel2.jpg',
-				Title: 'Carousel Image Two',
-				SubText: 'Your place to purchase all restaurant equipment!',
+				Title: 'Your place to purchase all restaurant equipment!',
+				SubText: 'Includings parts and accessories',
 				ID: 1
 			},
 			{
 				URL: 'assets/images/carousel3.jpg',
-				Title: 'Carousel Image Three',
-				SubText: 'All in one easy to access place!',
+				Title: 'All in one easy to access place!',
+				SubText: 'Get started now!',
 				ID: 2
 			}
 		]
