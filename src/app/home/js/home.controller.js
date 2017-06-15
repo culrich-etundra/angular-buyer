@@ -23,13 +23,13 @@ function HomeController(ocAppName, FeaturedProducts) {
 			{
 				URL: 'assets/images/carousel2.jpg',
 				Title: 'Carousel Image Two',
-				SubText: 'This is the second image',
+				SubText: 'Your place to purchase all restaurant equipment!',
 				ID: 1
 			},
 			{
 				URL: 'assets/images/carousel3.jpg',
 				Title: 'Carousel Image Three',
-				SubText: 'This is the third image',
+				SubText: 'All in one easy to access place!',
 				ID: 2
 			}
 		]
