@@ -22,14 +22,14 @@ function HomeController(ocAppName, FeaturedProducts) {
 			},
 			{
 				URL: 'assets/images/carousel2.jpg',
-				Title: 'Carousel Image Two',
-				SubText: 'This is the second image',
+				Title: 'Mill Hardware - Worldwide Distributor of Replacement Parts',
+				SubText: 'We supply high quality, reliable parts at extremely competitive prices.',
 				ID: 1
 			},
 			{
 				URL: 'assets/images/carousel3.jpg',
-				Title: 'Carousel Image Three',
-				SubText: 'This is the third image',
+				Title: 'Start Purchasing Today!',
+				SubText: 'In-stock orders placed by 3:30 P.M. ship the same day.',
 				ID: 2
 			}
 		]
