@@ -22,14 +22,14 @@ function HomeController(ocAppName, FeaturedProducts) {
 			},
 			{
 				URL: 'assets/images/carousel2.jpg',
-				Title: 'Carousel Image Two',
-				SubText: 'This is the second image',
+				Title: 'Ordering made easy, all in one place!',
+				SubText: 'Including parts and accessories',
 				ID: 1
 			},
 			{
 				URL: 'assets/images/carousel3.jpg',
-				Title: 'Carousel Image Three',
-				SubText: 'This is the third image',
+				Title: 'Orders placed before 3pm, ship same day!',
+				SubText: 'Start your first order NOW!',
 				ID: 2
 			}
 		]
