@@ -18,6 +18,12 @@
                 </div>
                 <div class="panel-body" ta-bind ng-model="productDetail.item.Description"></div>
             </div>
+            <div class="panel panel-default" ng-if="productDetail.item.xp.par">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Par Level</h3>
+                </div>
+                <div class="panel-body" ta-bind ng-model="productDetail.item.xp.par"></div>
+            </div>
             <div class="panel panel-default" ng-if="productDetail.item.PriceSchedule.PriceBreaks">
                 <div class="panel-heading">
                     <h3 class="panel-title">Price Breaks</h3>
