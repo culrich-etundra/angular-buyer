@@ -5,6 +5,9 @@
         <li>
             <a ui-sref="productBrowse.products({page:'', favorites:'', sortBy:'', categoryid:''})">Product Browse</a>
         </li>
+        <li>
+            <a ui-sref="categoryBrowse({page:'', sortBy:'', categoryID:''})">Category Browse</a>
+        </li>
         <li ng-if="base.currentUser.Anonymous">
             <a ui-sref="login">Login</a>
         </li>
@@ -55,6 +58,9 @@
             <ul class="nav navbar-nav navbar-nav--desktop">
                 <li>
                 <a ui-sref="productBrowse.products({page:'', favorites:'', sortBy:'', categoryid:''})">Product Browse</a>
+                </li>
+                <li>
+                <a ui-sref="categoryBrowse({page:'', sortBy:'', categoryID:''})">Category Browse</a>
                 </li>
             </ul>
             <oc-product-search class="navbar-form navbar-nav navbar-nav--desktop" catalogid="base.currentUser.Buyer.DefaultCatalogID"></oc-product-search>
