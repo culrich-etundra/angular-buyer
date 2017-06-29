@@ -1,11 +1,11 @@
 {
-  "appname": "Angular Buyer",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+  "appname": "HoneyBaked Ham Buyer",
+  "clientid": "FCDC75AA-B035-433D-9051-5A9CC4A35DE4",
   "anonymous": false,
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
-  "bootswatchtheme": null,
+  "bootswatchtheme": "yeti",
   "scope": [
       "BuyerReader", 
       "MeAdmin", 
