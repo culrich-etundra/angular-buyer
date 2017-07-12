@@ -1,7 +1,7 @@
 {
   "appname": "Mill Hardware",
   "clientid": "E5E57C8E-AC17-4EE1-8491-7398C8F53E86",
-  "anonymous": false,
+  "anonymous": true,
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
