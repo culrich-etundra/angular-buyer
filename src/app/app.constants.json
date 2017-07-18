@@ -5,7 +5,7 @@
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
-  "bootswatchtheme": "spacelab",
+  "bootswatchtheme": "lumen",
   "scope": [
       "BuyerReader", 
       "MeAdmin", 
