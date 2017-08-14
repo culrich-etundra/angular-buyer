@@ -2,7 +2,7 @@
   "appname": "HoneyBaked Ham QA BUYER",
   "clientid": "FCDC75AA-B035-433D-9051-5A9CC4A35DE4",
   "anonymous": false,
-  "environment": "QA",
+  "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
   "bootswatchtheme": "united",
