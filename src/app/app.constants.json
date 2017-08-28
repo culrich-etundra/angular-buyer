@@ -1,11 +1,11 @@
 {
-  "appname": "Angular Buyer",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
-  "anonymous": false,
+  "appname": "DSI Buyer",
+  "clientid": "72B75FDE-1115-4E38-8B08-5638A51AE305",
+  "anonymous": true,
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
-  "bootswatchtheme": null,
+  "bootswatchtheme": "flatly",
   "scope": [
       "BuyerReader", 
       "MeAdmin", 
