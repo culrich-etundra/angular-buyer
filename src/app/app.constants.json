@@ -1,7 +1,7 @@
 {
-  "appname": "Angular Buyer",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
-  "anonymous": false,
+  "appname": "RPM Buyer",
+  "clientid": "5EAE727E-7A7E-4562-88E2-0FE13DDFC7FC",
+  "anonymous": true,
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
