@@ -1,7 +1,7 @@
 {
   "appname": "RPM Store",
   "clientid": "18FEA7A1-889A-4FFE-ACD7-FD43CBED3956",
-  "anonymous": true,
+  "anonymous": false,
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
