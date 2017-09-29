@@ -11,6 +11,7 @@ function ProductBrowseController($state, ocProductBrowse, CategoryList, Category
     vm.initFilters = function(parameters) {
         vm.parameters.favorites = parameters.favorites;
         vm.parameters.search = parameters.search;
+        vm.parameters.product.xp.attributes.Manufacturer;
     };
 
     vm.clearSearch = function() {
