@@ -1,7 +1,7 @@
 {
   "appname": "Sonic",
   "clientid": "4D2A3A94-F76E-41E0-8583-9EAB4096B56D",
-  "anonymous": true,
+  "anonymous": false,
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
