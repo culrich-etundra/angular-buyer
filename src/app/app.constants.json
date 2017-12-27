@@ -5,7 +5,7 @@
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
-  "bootswatchtheme": "flatly",
+  "bootswatchtheme": "litera",
   "scope": [
       "BuyerReader", 
       "MeAdmin", 
