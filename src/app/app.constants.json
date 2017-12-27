@@ -5,7 +5,7 @@
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
-  "bootswatchtheme": "litera",
+  "bootswatchtheme": "cerulean",
   "scope": [
       "BuyerReader", 
       "MeAdmin", 
