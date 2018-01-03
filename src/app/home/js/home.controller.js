@@ -16,8 +16,8 @@ function HomeController(ocAppName, FeaturedProducts) {
 		Slides: [
 			{
 				URL: 'assets/images/carousel1.jpg', 
-				Title: ocAppName.Watch(),
-				SubText: 'Welcome to the ' + ocAppName.Watch() + ' application',
+				Title: 'Sonic Solutions',
+				SubText: 'Welcome to the Sonic Solutions App',
 				ID: 0
 			}
 		]
